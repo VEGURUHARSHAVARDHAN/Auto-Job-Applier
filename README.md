@@ -54,6 +54,3 @@ python dashboard.py
 # Open http://localhost:8080
 ```
 
-## 💰 Cost: COMPLETELY FREE
-- Gemini 1.5 Flash: Free tier = 15 requests/min, 1500/day
-- That's enough for 1500 job analyses per day!
