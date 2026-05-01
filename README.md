@@ -1,11 +1,11 @@
-# 🤖 Auto Job Applier Agent — FREE Gemini Edition
+# 🤖 Auto Job Applier Agent — FREE Edition
 
 Applies to jobs on Naukri, Indeed, LinkedIn using **100% FREE** Google Gemini AI.
 
 ## ⚡ Setup (5 minutes)
 
-### 1. Get FREE Gemini API Key
-- Go to: https://aistudio.google.com
+### 1. Get FREE GROQ API Key
+- Go to: https://console.groq.com/keys
 - Click "Get API Key" → Create → Copy it (starts with `AIza...`)
 - No credit card needed!
 
